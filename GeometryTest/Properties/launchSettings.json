@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GeometryExam": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../../Shapes-49464.json\r\n../../../../metrics.csv"
+    }
+  }
+}
